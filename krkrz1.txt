@@ -1,0 +1,6 @@
+krkrz的hello world 教程
+1. 下载krkrz https://github.com/krkrz/krkrz/releases/download/1.4.0r2/krkrz_20171225r2.7z
+2. 下载kag3 https://github.com/krkrz/kag3/archive/refs/heads/master.zip
+3. 解压
+4. 启动
+5. 修改你的脚本代码 D:\总下载\krkrz_20171225r2\krkrz_20171225\kag3-master\data\scenario\first.ks

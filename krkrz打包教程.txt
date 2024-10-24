@@ -1,0 +1,7 @@
+krkrz使用krkr2的releaser
+下载：https://krkrz.github.io/download/kr2_232r2.zip
+D:\总下载\krkrz_20171225r2\krkrz_20171225\kr2_232r2\kirikiri2\tools\krkrrel.exe
+
+1. 打开krkrrel.exe 选择目录 选择kag3-master/data
+2. 打包为data.xp3
+3. 把data.xp3移动到tvpwin32.exe目录 并把这个krkrz所有文件压缩成一个zip（发送给别人就是游戏了）
