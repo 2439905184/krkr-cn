@@ -1,0 +1,4 @@
+1. 打开first.ks 加上这一行 [loadplugin module="wuvorbis.dll"]
+2. 在kag的data文件夹里面放入ogg音乐文件如："aaa.ogg"
+3. 补充命令[playbgm storage=aaa]
+参考网站：https://ykagaya.com/howto/krkrz/audio/
